@@ -73,10 +73,6 @@ The dashboard helps identify:
 - Differences between sales and production costs
 - Quarterly sales contribution
 
-## 📷 Dashboard Preview
-
-![Adventure Works Sales Dashboard](Screenshots/Adventure_Works_Sales_Dashboard.png)
-
 ## 📁 Project Structure
 PowerBI/       → Power BI dashboard file
 Dataset/       → Source dataset
