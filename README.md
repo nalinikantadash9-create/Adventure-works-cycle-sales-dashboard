@@ -78,6 +78,30 @@ PowerBI/       → Power BI dashboard file
 Dataset/       → Source dataset
 Screenshots/   → Dashboard screenshots
 Documentation/ → Project documentation
+```markdown
+
+# 📊 BUSINESS RECOMMENDATIONS & STRATEGIC ACTION PLAN
+
+### 1. 💰 Profitability & Cost Optimization
+- **Insight:** $29.36M sales, $12.08M profit, and 41.15% profit margin.
+- **Action:** Monitor production costs and optimize product-level profitability.
+- **Impact:** Improved cost control and sustainable profits.
+
+### 2. 🚴 Product & Customer Growth
+- **Insight:** Mountain-200 is a leading profit generator; customers aged 50+ contribute the highest profit share.
+- **Action:** Focus on profitable products and targeted customer loyalty programs.
+- **Impact:** Better customer retention and growth opportunities.
+
+### 3. 📦 Seasonal Demand Planning
+- **Insight:** Q4 is the strongest quarter, with December sales of approximately $3.21M.
+- **Action:** Forecast demand and optimize inventory before peak seasons.
+- **Impact:** Better product availability and inventory efficiency.
+
+### 4. 📈 Sales Performance Monitoring
+- **Insight:** 2013 recorded the highest sales at approximately $16.35M.
+- **Action:** Validate yearly data and track sales growth, profit growth, and regional performance.
+- **Impact:** Better forecasting and data-driven decisions.
+
 
 ## 🧑‍💻 Author
 Nalinikanta Dash
